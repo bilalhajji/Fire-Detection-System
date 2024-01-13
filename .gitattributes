@@ -1,1 +1,6 @@
 *.rar filter=lfs diff=lfs merge=lfs -text
+Ecole filter=lfs diff=lfs merge=lfs -text
+Centrale filter=lfs diff=lfs merge=lfs -text
+CasablancaBureauenv.rar filter=lfs diff=lfs merge=lfs -text
+C:UserslenovoOneDrive filter=lfs diff=lfs merge=lfs -text
+- filter=lfs diff=lfs merge=lfs -text
